@@ -1,0 +1,36 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+    background-color: #f5f8fa !important;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+nav.navbar-atkins {
+    background-color: #3097d1;
+    border-color:  #1c73a5;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-radius: 0px !important;
+    color: #fff;  
+}
+nav .navbar-middle{
+    width: 990px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.mid-page{
+    
+    width: 990px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
